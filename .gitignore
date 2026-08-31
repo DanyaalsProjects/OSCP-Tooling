@@ -1,0 +1,14 @@
+# Never commit target data
+private/
+targets/
+scans/
+*.pcap
+*.creds
+*.nmap
+*.xml
+
+# Python noise
+__pycache__/
+*.pyc
+.venv/
+venv/
